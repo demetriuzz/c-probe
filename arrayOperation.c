@@ -22,5 +22,16 @@ int main(void)
     }
 
     printf("Размер массива: %d\n", i);
+    printf("\n");
+
+    char string[] = "Здорово!";
+    printf("%s\n", string);
+    size_t length = sizeof(string) / sizeof(char);
+    for (size_t i = 0; i < length; i++)
+    {
+        printf("%d ", string[i]);
+    }
+    printf("\n");
+
     return 0;
 }
