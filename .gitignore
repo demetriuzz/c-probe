@@ -1,3 +1,11 @@
+# Visual Studio Code
+.vscode
+
+# Selected ignore
+hello
+shiftOperation
+ifOperation
+
 # Prerequisites
 *.d
 
