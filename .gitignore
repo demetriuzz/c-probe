@@ -5,6 +5,7 @@
 hello
 shiftOperation
 ifOperation
+arrayOperation
 
 # Prerequisites
 *.d
